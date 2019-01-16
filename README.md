@@ -7,4 +7,4 @@ Modified from branch test2. There should be a conflict.
 
 Modified from branch test
 
-Another change from test.
+Yet another change from test.
